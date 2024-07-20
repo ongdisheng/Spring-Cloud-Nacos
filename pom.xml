@@ -23,7 +23,8 @@
 	</developers>
 	<modules>
 		<module>item-service</module>
-	</modules>
+        <module>cart-service</module>
+    </modules>
 	<scm>
 		<connection/>
 		<developerConnection/>
